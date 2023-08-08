@@ -1,0 +1,2 @@
+this is the test project to check the git-scm working 
+(introduction to git-scm or git hub).
